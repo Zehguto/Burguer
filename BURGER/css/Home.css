@@ -1,0 +1,33 @@
+.nav-heading {
+  font-family: "Bebas Neue", cursive;
+  color: #e5ded6;
+}
+.navbar-brand {
+  font-family: "Bebas Neue", cursive;
+  color: #e5ded6;
+}
+.navbar {
+  background-color: #1d2024;
+  margin-top: -1.6rem;
+  margin-left: -2rem;
+  margin-bottom: -2rem;
+}
+.principal {
+  background-color: #1d2024;
+}
+.linha {
+  background-color: red;
+}
+.ze {
+  background-color: #1d2024;
+}
+.as {
+  background-color: #ff9900;
+}
+.nav-link {
+  font-family: "Bebas Neue", cursive;
+  color: #e5ded6;
+}
+.nav-link:hover {
+  color: #ff9900;
+}
